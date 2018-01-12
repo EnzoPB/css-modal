@@ -34,7 +34,8 @@ CSS-only dialog modal
 ```
 ## To-do
 
- - Make sure you can not click outside the modal
+ - Can't click outside the modal
+ - Multiple modals
 
 ----------
 To make a dark modal, just add the class `modal-dark` to the modal:
