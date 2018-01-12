@@ -36,7 +36,6 @@ CSS-only dialog modal
 
  - Make sure you can not click outside the modal
 
-
 ----------
 To make a dark modal, just add the class `modal-dark` to the modal:
 ```html
@@ -59,4 +58,4 @@ To make a dark modal, just add the class `modal-dark` to the modal:
 ![From browseemall.com/Compatibility/ValidateCSS](https://i.imgur.com/A6SqxQ5.png)
 From [browseemall.com/Compatibility/ValidateCSS](https://www.browseemall.com/Compatibility/ValidateCSS)
 # License
-[MIT License](https://github.com/SawnFx/css-modal/blob/master/LICENSE)
+Code copyright 2018 Enzo P. Code released under the [MIT License](https://github.com/SawnFx/css-modal/blob/master/LICENSE).
