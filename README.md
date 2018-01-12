@@ -1,6 +1,6 @@
 # CSS Modal
 CSS-only dialog modal
-
+[Demo](https://jsbin.com/jepuvuxoga/edit?html,css,output)
 ## Features
 - Responsive
 - Dark theme
